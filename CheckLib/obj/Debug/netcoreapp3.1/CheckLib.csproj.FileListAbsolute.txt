@@ -1,0 +1,17 @@
+D:\study\c#\CheckLib\bin\Debug\netcoreapp3.1\CheckLib.exe
+D:\study\c#\CheckLib\bin\Debug\netcoreapp3.1\CheckLib.deps.json
+D:\study\c#\CheckLib\bin\Debug\netcoreapp3.1\CheckLib.runtimeconfig.json
+D:\study\c#\CheckLib\bin\Debug\netcoreapp3.1\CheckLib.runtimeconfig.dev.json
+D:\study\c#\CheckLib\bin\Debug\netcoreapp3.1\CheckLib.dll
+D:\study\c#\CheckLib\bin\Debug\netcoreapp3.1\CheckLib.pdb
+D:\study\c#\CheckLib\bin\Debug\netcoreapp3.1\Calculator.dll
+D:\study\c#\CheckLib\bin\Debug\netcoreapp3.1\Calculator.pdb
+D:\study\c#\CheckLib\obj\Debug\netcoreapp3.1\CheckLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\study\c#\CheckLib\obj\Debug\netcoreapp3.1\CheckLib.AssemblyInfoInputs.cache
+D:\study\c#\CheckLib\obj\Debug\netcoreapp3.1\CheckLib.AssemblyInfo.cs
+D:\study\c#\CheckLib\obj\Debug\netcoreapp3.1\CheckLib.csproj.CoreCompileInputs.cache
+D:\study\c#\CheckLib\obj\Debug\netcoreapp3.1\CheckLib.csproj.CopyComplete
+D:\study\c#\CheckLib\obj\Debug\netcoreapp3.1\CheckLib.dll
+D:\study\c#\CheckLib\obj\Debug\netcoreapp3.1\CheckLib.pdb
+D:\study\c#\CheckLib\obj\Debug\netcoreapp3.1\CheckLib.genruntimeconfig.cache
+D:\study\c#\CheckLib\obj\Debug\netcoreapp3.1\CheckLib.csproj.AssemblyReference.cache
