@@ -1,0 +1,10 @@
+D:\study\c#\CalculatorLibExample\Calculator\bin\Debug\netcoreapp3.1\Calculator.deps.json
+D:\study\c#\CalculatorLibExample\Calculator\bin\Debug\netcoreapp3.1\Calculator.dll
+D:\study\c#\CalculatorLibExample\Calculator\bin\Debug\netcoreapp3.1\Calculator.pdb
+D:\study\c#\CalculatorLibExample\Calculator\obj\Debug\netcoreapp3.1\Calculator.csproj.AssemblyReference.cache
+D:\study\c#\CalculatorLibExample\Calculator\obj\Debug\netcoreapp3.1\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\study\c#\CalculatorLibExample\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfoInputs.cache
+D:\study\c#\CalculatorLibExample\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfo.cs
+D:\study\c#\CalculatorLibExample\Calculator\obj\Debug\netcoreapp3.1\Calculator.csproj.CoreCompileInputs.cache
+D:\study\c#\CalculatorLibExample\Calculator\obj\Debug\netcoreapp3.1\Calculator.dll
+D:\study\c#\CalculatorLibExample\Calculator\obj\Debug\netcoreapp3.1\Calculator.pdb
