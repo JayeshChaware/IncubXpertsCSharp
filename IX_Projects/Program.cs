@@ -7,7 +7,7 @@ namespace IX_Projects
         static void Main(string[] args)
         {
            
-            Subscriber subscriber = new Subscriber();
+            
             Bike Apache160_4V = new Bike("TVS", 160, 2, 2);
             Bike Apache200_4V = new Bike("TVS", 200, 2, 2);
 
