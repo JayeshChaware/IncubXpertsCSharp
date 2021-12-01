@@ -1,0 +1,14 @@
+D:\study\cSharp\IX C#\IX_Projects\bin\Debug\netcoreapp3.1\IX_Projects.exe
+D:\study\cSharp\IX C#\IX_Projects\bin\Debug\netcoreapp3.1\IX_Projects.deps.json
+D:\study\cSharp\IX C#\IX_Projects\bin\Debug\netcoreapp3.1\IX_Projects.runtimeconfig.json
+D:\study\cSharp\IX C#\IX_Projects\bin\Debug\netcoreapp3.1\IX_Projects.runtimeconfig.dev.json
+D:\study\cSharp\IX C#\IX_Projects\bin\Debug\netcoreapp3.1\IX_Projects.dll
+D:\study\cSharp\IX C#\IX_Projects\bin\Debug\netcoreapp3.1\IX_Projects.pdb
+D:\study\cSharp\IX C#\IX_Projects\obj\Debug\netcoreapp3.1\IX_Projects.csproj.AssemblyReference.cache
+D:\study\cSharp\IX C#\IX_Projects\obj\Debug\netcoreapp3.1\IX_Projects.GeneratedMSBuildEditorConfig.editorconfig
+D:\study\cSharp\IX C#\IX_Projects\obj\Debug\netcoreapp3.1\IX_Projects.AssemblyInfoInputs.cache
+D:\study\cSharp\IX C#\IX_Projects\obj\Debug\netcoreapp3.1\IX_Projects.AssemblyInfo.cs
+D:\study\cSharp\IX C#\IX_Projects\obj\Debug\netcoreapp3.1\IX_Projects.csproj.CoreCompileInputs.cache
+D:\study\cSharp\IX C#\IX_Projects\obj\Debug\netcoreapp3.1\IX_Projects.dll
+D:\study\cSharp\IX C#\IX_Projects\obj\Debug\netcoreapp3.1\IX_Projects.pdb
+D:\study\cSharp\IX C#\IX_Projects\obj\Debug\netcoreapp3.1\IX_Projects.genruntimeconfig.cache
