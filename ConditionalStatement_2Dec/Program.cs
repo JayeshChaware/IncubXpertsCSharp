@@ -19,7 +19,8 @@ namespace ConditionalStatement_2Dec
 
             }
             for (i = 0; i < Students.Length; i++)
-            {
+            {   
+                //to print students individual records
                 Console.WriteLine("{0} got {1} marks in Maths, {2} marks in Science, {3} marks in English, {4} marks in Computers", Students[i].Name, Students[i].Maths, Students[i].Science, Students[i].English, Students[i].Computers);
                 Console.WriteLine("{0} in Maths",Status(IsPass(Students[i].Maths)));
                 Console.WriteLine("{0} in Science", Status(IsPass(Students[i].Science)));
@@ -32,6 +33,7 @@ namespace ConditionalStatement_2Dec
              
             for (i = 0; i < Students.Length; i++)
             {
+                //to calculate average marks and average students passed in each subject
                 sum1 = sum1 + Students[i].Maths;
                 if (IsPass(Students[i].Maths)) { count1++; }
 
@@ -48,6 +50,8 @@ namespace ConditionalStatement_2Dec
                 { allSubCount++; }
 
             }
+
+            //to print average marks and average students passed in each subject
             Console.WriteLine("\nAverage score in Maths: {0}", GetAverage(sum1));
             Console.WriteLine("{0}% students pass in Maths",count1*10);
 
@@ -70,21 +74,25 @@ namespace ConditionalStatement_2Dec
               
         public static int RandomMarks()
         {
+            //to generate random marks
             return _random.Next(0, 100);
         }
 
         public static string RandomName()
         {
+            //to generate random name
             return char.ConvertFromUtf32(_random.Next('a', 'z'));
         }
 
         public static float GetAverage(int total)
         {
+            //to calculate averae marks 
             float average=total/10;
             return average;
         }
         public static bool IsPass(int marks)
         {
+            //to check if student is pass or not
             bool isPass;
             isPass = marks >= 40 ? true : false;
             return isPass;
@@ -92,6 +100,7 @@ namespace ConditionalStatement_2Dec
 
         public static string Status(bool status)
         {
+            //to return string if student is pass in subject or not
             switch (status)
             {
                 case true:
