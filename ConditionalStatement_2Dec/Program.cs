@@ -10,12 +10,16 @@ namespace ConditionalStatement_2Dec
             Student[] Students = new Student[10];
             for (i = 0; i < Students.Length; i++)
             {
-                Students[i]=new Student();
-                Students[i].Name = RandomName();
-                Students[i].Maths = RandomMarks();
-                Students[i].Science = RandomMarks();
-                Students[i].English = RandomMarks();
-                Students[i].Computers = RandomMarks();
+                Students[i] = new Student()
+                {
+
+                    Name = RandomName(),
+                    Maths = RandomMarks(),
+                    Science = RandomMarks(),
+                    English = RandomMarks(),
+                    Computers = RandomMarks()
+            };
+                
 
             }
             for (i = 0; i < Students.Length; i++)
