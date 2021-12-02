@@ -20,9 +20,12 @@ namespace ConditionalStatement_2Dec
             }
             for (i = 0; i < Students.Length; i++)
             {
-                Console.WriteLine("{0} got {1} marks in Maths, {2} marks in Science, {3} marks in English, {4} marks in Computers\n", Students[i].Name, Students[i].Maths, Students[i].Science, Students[i].English, Students[i].Computers);
-                
-            
+                Console.WriteLine("{0} got {1} marks in Maths, {2} marks in Science, {3} marks in English, {4} marks in Computers", Students[i].Name, Students[i].Maths, Students[i].Science, Students[i].English, Students[i].Computers);
+                Console.WriteLine("{0} in Maths",Status(IsPass(Students[i].Maths)));
+                Console.WriteLine("{0} in Science", Status(IsPass(Students[i].Science)));
+                Console.WriteLine("{0} in English", Status(IsPass(Students[i].English)));
+                Console.WriteLine("{0} in Computers\n", Status(IsPass(Students[i].Computers)));
+
             }
 
             int sum1 = 0, sum2 = 0, sum3 = 0, sum4 = 0, count1 = 0, count2 = 0, count3 = 0, count4 = 0,allSubCount=0;
@@ -85,6 +88,20 @@ namespace ConditionalStatement_2Dec
             bool isPass;
             isPass = marks >= 40 ? true : false;
             return isPass;
+        }
+
+        public static string Status(bool status)
+        {
+            switch (status)
+            {
+                case true:
+                    return "pass";
+                    
+                case false:
+                    return "fail";
+                    
+
+            }
         }
     }
     class Student : Marks
