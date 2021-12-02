@@ -1,0 +1,14 @@
+D:\study\cSharp\ConditionalStatement_2Dec\bin\Debug\netcoreapp3.1\ConditionalStatement_2Dec.exe
+D:\study\cSharp\ConditionalStatement_2Dec\bin\Debug\netcoreapp3.1\ConditionalStatement_2Dec.deps.json
+D:\study\cSharp\ConditionalStatement_2Dec\bin\Debug\netcoreapp3.1\ConditionalStatement_2Dec.runtimeconfig.json
+D:\study\cSharp\ConditionalStatement_2Dec\bin\Debug\netcoreapp3.1\ConditionalStatement_2Dec.runtimeconfig.dev.json
+D:\study\cSharp\ConditionalStatement_2Dec\bin\Debug\netcoreapp3.1\ConditionalStatement_2Dec.dll
+D:\study\cSharp\ConditionalStatement_2Dec\bin\Debug\netcoreapp3.1\ConditionalStatement_2Dec.pdb
+D:\study\cSharp\ConditionalStatement_2Dec\obj\Debug\netcoreapp3.1\ConditionalStatement_2Dec.csproj.AssemblyReference.cache
+D:\study\cSharp\ConditionalStatement_2Dec\obj\Debug\netcoreapp3.1\ConditionalStatement_2Dec.GeneratedMSBuildEditorConfig.editorconfig
+D:\study\cSharp\ConditionalStatement_2Dec\obj\Debug\netcoreapp3.1\ConditionalStatement_2Dec.AssemblyInfoInputs.cache
+D:\study\cSharp\ConditionalStatement_2Dec\obj\Debug\netcoreapp3.1\ConditionalStatement_2Dec.AssemblyInfo.cs
+D:\study\cSharp\ConditionalStatement_2Dec\obj\Debug\netcoreapp3.1\ConditionalStatement_2Dec.csproj.CoreCompileInputs.cache
+D:\study\cSharp\ConditionalStatement_2Dec\obj\Debug\netcoreapp3.1\ConditionalStatement_2Dec.dll
+D:\study\cSharp\ConditionalStatement_2Dec\obj\Debug\netcoreapp3.1\ConditionalStatement_2Dec.pdb
+D:\study\cSharp\ConditionalStatement_2Dec\obj\Debug\netcoreapp3.1\ConditionalStatement_2Dec.genruntimeconfig.cache
