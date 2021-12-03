@@ -12,15 +12,12 @@ namespace ConditionalStatement_2Dec
             {
                 Students[i] = new Student()
                 {
-
                     Name = RandomName(),
                     Maths = RandomMarks(),
                     Science = RandomMarks(),
                     English = RandomMarks(),
                     Computers = RandomMarks()
-            };
-                
-
+                };
             }
             for (i = 0; i < Students.Length; i++)
             {   
@@ -30,11 +27,8 @@ namespace ConditionalStatement_2Dec
                 Console.WriteLine("{0} in Science", Status(IsPass(Students[i].Science)));
                 Console.WriteLine("{0} in English", Status(IsPass(Students[i].English)));
                 Console.WriteLine("{0} in Computers\n", Status(IsPass(Students[i].Computers)));
-
             }
-
-            int sum1 = 0, sum2 = 0, sum3 = 0, sum4 = 0, count1 = 0, count2 = 0, count3 = 0, count4 = 0,allSubCount=0;
-             
+            int sum1 = 0, sum2 = 0, sum3 = 0, sum4 = 0, count1 = 0, count2 = 0, count3 = 0, count4 = 0,allSubCount=0;             
             for (i = 0; i < Students.Length; i++)
             {
                 //to calculate average marks and average students passed in each subject
@@ -52,7 +46,6 @@ namespace ConditionalStatement_2Dec
 
                 if (IsPass(Students[i].Maths) && IsPass(Students[i].Science) && IsPass(Students[i].English) && IsPass(Students[i].Computers))
                 { allSubCount++; }
-
             }
 
             //to print average marks and average students passed in each subject
@@ -74,20 +67,16 @@ namespace ConditionalStatement_2Dec
 
         }
         public static readonly Random _random = new Random();
-
-              
         public static int RandomMarks()
         {
             //to generate random marks
             return _random.Next(0, 100);
         }
-
         public static string RandomName()
         {
             //to generate random name
             return char.ConvertFromUtf32(_random.Next('a', 'z'));
         }
-
         public static float GetAverage(int total)
         {
             //to calculate averae marks 
@@ -101,19 +90,15 @@ namespace ConditionalStatement_2Dec
             isPass = marks >= 40 ? true : false;
             return isPass;
         }
-
         public static string Status(bool status)
         {
             //to return string if student is pass in subject or not
             switch (status)
             {
                 case true:
-                    return "pass";
-                    
+                    return "pass";                    
                 case false:
                     return "fail";
-                    
-
             }
         }
     }
